@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.ipch
+*.vc.db
+*.vcxproj.user
+*.tlog/
+*.log
+*.recipe
+
+# Compiled shaders (если будут)
+*.spv
